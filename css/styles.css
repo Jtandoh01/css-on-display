@@ -21,7 +21,7 @@ hr{
 h1{
     color: #66BFBF;
     font-size: 5.625rem;
-    line-height: 2; 
+   
     margin: 3.125rem auto 0 auto;
     font-family: 'Sacramento', cursive;
 
@@ -74,6 +74,7 @@ a:hover{
     width: 40%;
     margin:90px auto 90px auto;
     text-align: left; 
+    line-height: 2; 
    
     
    
